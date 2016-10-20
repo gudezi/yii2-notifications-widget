@@ -1,0 +1,21 @@
+{
+    "name": "gudezi/yii2-notifications-widget",
+    "description": "list notifications widgets",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","notifications","widgets"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gustavo Jose Dezi",
+            "email": "gudezi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gudezi\\notifications\\": ""
+        }
+    }
+}
